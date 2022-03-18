@@ -1,6 +1,6 @@
 # Jogo De Cartas #
 ## Descrição do Projeto
-<p align="center">Um mini jogo feito em HTML,CSS & JS para WEB.</p>
+<p align="center">UM MINI JOGO DE CARTAS COM HERÓIS</p>
 
  <p align="center">
  <img align="center" src="https://seeklogo.com/images/M/marvel-studios-logo-824A3A1976-seeklogo.com.png"/>
