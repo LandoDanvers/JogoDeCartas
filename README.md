@@ -16,13 +16,13 @@ A seguinte ferramenta foi usada na construção do projeto:
 
 - <img align="center" alt="Lando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
+![image](https://user-images.githubusercontent.com/61029128/169397006-ea730576-ed56-464d-9a92-c53a4be0c533.png)
+
+
+
 <p align="center"> 
  <a href="https://instagram.com/lando_cerqueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	</p>
 
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
 
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
